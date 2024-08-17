@@ -1,0 +1,5 @@
+node_modules
+s.notes
+dist/index.js
+package.json
+package-lock.json
