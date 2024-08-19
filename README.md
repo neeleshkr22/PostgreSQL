@@ -13,8 +13,8 @@ This project demonstrates how to create and manage a PostgreSQL database table f
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/neeleshkr22/postgresql-user-management.git
-    cd postgresql-user-management
+    git clone https://github.com/neeleshkr22/postgreSQL.git
+    cd postgreSQL
     ```
 
 2. **Install dependencies using Yarn:**
